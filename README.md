@@ -26,7 +26,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yVilaca&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yVilaca&theme=dark&hide_border=true)
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=yVilaca&theme=github-dark)
 
