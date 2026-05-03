@@ -10,7 +10,7 @@
 - 💼 **Atualmente:** Desenvolvedor Full Stack
 - 🔍 **Habilidades:** JavaScript, Python, Django, React, TypeScript
 - 🚀 **Interesses:** Desenvolvimento Web, APIs e Automação
-- 🌱 **Aprendendo:** DevOps e Machine Learning
+- 🌱 **Aprendendo:** Engenharia de Prompt
 
 ---
 
