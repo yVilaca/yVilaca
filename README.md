@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Vilaça</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> — construo software com IA no loop: <b>dirigindo, não obedecendo</b>.
+  <b>Full Stack Developer</b> — buscando solucionar problemas com código
 </p>
 
 <p align="center">
@@ -18,8 +18,7 @@
 
 - 🎓 **Formação:** Ciência da Computação & Técnico em Informática
 - 💼 **Atualmente:** Desenvolvedor Full Stack
-- 🔍 **Foco:** back-end sólido, segurança e testes — não só "funcionar"
-- 🧠 **Como trabalho:** uso IA como ferramenta de implementação, revisão e auditoria — e valido cada resposta como uma hipótese
+- 🔍 **Foco:** Projetos sólidos, segurança, testes e qualidade
 - 🌱 **Aprendendo:** Engenharia de Prompt
 
 <br clear="right"/>
