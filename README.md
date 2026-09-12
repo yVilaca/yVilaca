@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVilaca&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="340"/>
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=yVilaca&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="340"/>
 
 ### 👨‍💻 Sobre mim
 
@@ -66,10 +66,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yVilaca&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yVilaca&theme=tokyonight&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=yVilaca&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=yVilaca&theme=tokyo-night&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yVilaca&theme=tokyonight&hide_border=true)
 
 </div>
 
