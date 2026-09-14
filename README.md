@@ -66,8 +66,6 @@
 
 <div align="center">
 
-# ![Stats](https://github-stats-extended.vercel.app/api?username=yVilaca&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yVilaca&theme=tokyonight&hide_border=true)
 
 </div>
